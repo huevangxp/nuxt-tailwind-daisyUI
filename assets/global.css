@@ -1,4 +1,8 @@
-
-  body{
+* {
     background-color: white;
+    height: 100vh;
+  }
+  body, html{
+    background-color: white;
+    color: #000;
   }
